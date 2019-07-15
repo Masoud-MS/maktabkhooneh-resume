@@ -1,0 +1,129 @@
+{
+  "menus": [
+    {"subMenus": ["About","Skills"]},
+    {
+      "iconTitle": "Color Me"
+    }
+   ],
+
+  "title": "Hello, I'm Masoud!",
+  "subtitle": "Full stack Dev | Open source Enthusiast | Trainee",
+  "links": {
+    "github": "https://github.com/Masoud-MS",
+    "stackoverflow": "https://stackoverflow.com/users/story/11782312",
+    "twitter": "https://twitter.com",
+    "linkedin": "https://www.linkedin.com/in/masoud-moosavi-524a9518a/"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I love to learn."
+        },
+        {
+          "type": "p",
+          "content": "Humans learn before birth and continue until death as a consequence of ongoing interactions between people and their environment."
+        },
+        {
+          "type": "p",
+          "content": "Learning is the process of acquiring new, or modifying existing, knowledge, behaviors, skills, values, or preferences. The ability to learn is possessed by humans, animals, and some machines; there is also evidence for some kind of learning in some plants. Some learning is immediate, induced by a single event (e.g. being burned by a hot stove), but much skill and knowledge accumulates from repeated experiences. The changes induced by learning often last a lifetime, and it is hard to distinguish learned material that seems to be \"lost\" from that which cannot be retrieved."
+        },
+        {
+          "type": "p",
+          "content": "I graduated Mechanical Engineering. My Bachelor of Science (BSc.) major is solid mechanics and the Master of Science (MSc.) major is Energy conversion. Theses of both majors were simulation by Numerical solution. Hence, it needed programming and coding widely, especially in the MSc courses and theses. So I am familiar with programing and coding in Fortran and Matlab."
+        },
+        {
+          "type": "p",
+          "content": "Coding and Developing is my favorite. So I have been passed some courses in MaktabKoone included includedC++, PHP Laravel and some others. I did my best in each courses I attended to learn more and do the project in the best way that I can"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/c++.png",
+            "title": "C++"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/css.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/html.png",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/laravel.png",
+            "title": "PHP Laravel"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/matlab.png",
+            "title": "Matlab"
+          }
+        }
+      ]
+    }
+  ],
+
+  "colors": [
+    {
+      "backGround": ["#7298d6", "#84aff5", "#b0ceff"],
+      "foreGround": "#fff",
+      "icon": ["images/painter/white.png", "images/down/white.png"]
+    },
+    {
+      "backGround": ["#fff", "#fff", "#fff"],
+      "foreGround": "#294A80",
+      "icon": ["images/painter/blue.png", "images/down/blue.png"]
+    },
+    {
+      "backGround": ["#1d7b80", "#2ca9b0", "#55c8cf"],
+      "foreGround": "#fff",
+      "icon": ["images/painter/white.png", "images/down/white.png"]
+    },
+    {
+      "backGround": ["#fff", "#fff", "#fff"],
+      "foreGround": "#0f5f63",
+      "icon": ["images/painter/green.png", "images/down/green.png"]
+    },
+    {
+      "backGround": ["#632b0f", "#8f441e", "#ba6438"],
+      "foreGround": "#fff",
+      "icon": ["images/painter/white.png", "images/down/white.png"]
+    },
+    {
+      "backGround": ["#fff", "#fff", "#fff"],
+      "foreGround": "#753413",
+      "icon": ["images/painter/brown.png", "images/down/brown.png"]
+    },
+    {
+      "backGround": ["#d1ca04", "#fcf412", "#f2ee72"],
+      "foreGround": "#000",
+      "icon": ["images/painter/black.png", "images/down/black.png"]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.icon-menu {
+    width: 52px;
+    color: white;
+    position: fixed;
+    display: flow;
+    float: left;
+    font-size: .7em;
+    padding-left: 8px;
+    cursor: pointer;
+    z-index: 1;
+    animation:  beating 2s infinite;
+
+}
+img {
+    padding-top: 1px;
+    height: 28px;
+    width: auto;
+}
+@keyframes beating{
+    0% {transform: scale(1);}
+    25% {transform: scale(.95);}
+    40% {transform: scale(.92);}
+    60% {transform: scale(1);}
+    100% {transform: scale(1);}
+}
+
+.icon-menu {
+
+}

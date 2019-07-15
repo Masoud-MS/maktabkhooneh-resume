@@ -1,0 +1,8 @@
+.skills {
+    width: 44%;
+    flex-flow: row wrap;
+    color: black;
+}
+.third {
+    background-color: #b0ceff;
+}
